@@ -1,14 +1,28 @@
+<h1 align="center"> Hi👋...  I'm Sammy <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763" width="30px"> </h1>
+
+###  Software developer from China. Now living in web3 universe.
+- 🌟 I’m currently learning about How to use web3 technology  🦄 to protect the world's species ecology ✨🐱‍🏍
+- 🍭 Also I'm working as Frontend developer & Solidity developer & IPFS/Filecoin Developer
+- 💬 Ask me about Software development 
+- 👀 I'm open to create things together, if you got some cool idea, hit me up!
+- 🚀 I like to learn new cool stuff so...
+<br />
+
+###  💖💯Now I'm starting  pushing to use blockchain technology & IPFS/Filecoin to build the world record of RLTS species.
+🐵🐒🦍🦧🐶🐕🐕🐕🦙🐘🦒🐋
+
+
 # Name
 RLTS-Decentralization
 
 ## Description
 
-The Red List of Threatened Species built on IPFS/Filecoin, and will use NFT technology and on-chain data proof to complete a permanent and permanent world ecology built on IPFS/Filecoin .
+➡The Red List of Threatened Species built on IPFS/Filecoin, and will use NFT technology and on-chain data proof to complete a permanent and permanent world ecology built on IPFS/Filecoin .
 
 ## who I am ？
-Internet researcher, web3 developer. Currently researching in the field of web3, I want to make some changes in this world through web3 technology.
+➡Internet researcher, web3 developer. Currently researching in the field of web3, I want to make some changes in this world through web3 technology.
 
-I have nothing to do with RLTS, just an ordinary web3 resident who wants to make some personal contributions to the ecology.
+➡I have nothing to do with RLTS, just an ordinary web3 resident who wants to make some personal contributions to the ecology.
 
 ## Who should make it?
 
@@ -17,7 +31,7 @@ But I want to start doing this, I just wish I could leave a detailed "epitaph" f
 Eventually I want to build a DAO to drive this thing.
 
 ## Why should I make it?
-Over 41,000 species are now facing extinction at https://www.iucnredlist.org/, but this is still 28% of all assessed species.
+Over 🤕41,000 species are now facing extinction at https://www.iucnredlist.org/, 😟but this is still 28% of all assessed species.
 
 Although there is simple information on almost all species on  https://www.iucnredlist.org/ and information on Wikipedia, the data is relatively scattered and cannot obtain enough species information in the same place.
 
