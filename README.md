@@ -5,6 +5,17 @@ RLTS-Decentralization
 
 The Red List of Threatened Species built on IPFS/Filecoin, and will use NFT technology and on-chain data proof to complete a permanent and permanent world ecology built on IPFS/Filecoin .
 
+## who I am ？
+Internet researcher, web3 developer. Currently researching in the field of web3, I want to make some changes in this world through web3 technology.
+
+I have nothing to do with RLTS, just an ordinary web3 resident who wants to make some personal contributions to the ecology.
+
+## Who should make it?
+
+Everyone should be involved. This one is hard.
+But I want to start doing this, I just wish I could leave a detailed "epitaph" for the species that live together on this planet.
+Eventually I want to build a DAO to drive this thing.
+
 ## Why should I make it?
 Over 41,000 species are now facing extinction at https://www.iucnredlist.org/, but this is still 28% of all assessed species.
 
@@ -18,14 +29,8 @@ We hope that anyone can know from here the origin, experience, living state, cau
 
 Therefore, we plan to build this platform, and eventually establish an ecological protection DAO, and use the web3 method to make some contributions to the ecology
 
-## Who should make it?
-Everyone should be involved. This one is hard.
-But I want to start doing this, I just wish I could leave a detailed "epitaph" for the species that live together on this planet.
 
-## who I am ？
-Internet researcher, web3 developer. Currently researching in the field of web3, I want to make some changes in this world through web3 technology.
 
-I have nothing to do with RLTS, just an ordinary web3 resident who wants to make some personal contributions to the ecology.
 
 ## Usage
 
